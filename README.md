@@ -38,5 +38,5 @@ The project then progressed through three crucial stages of model development an
 
   - 3️⃣ Data Expansion:
 
-   In order to enrich the training data, I expanded the dataset by scraping an additional 5,000 diverse flower images from the internet, obtaining approximately 1,000 images for each flower class. These augmented images were then combined with the original dataset, enhancing the model's training process.
+   In order to enrich the training data, I expanded the dataset by scraping an additional 5,000 diverse flower images from the internet, obtaining approximately 1,000 images for each flower class. These augmented images were then combined with the original dataset, enhancing the model's training process.(https://drive.google.com/file/d/1uht92rhzqDVxpD44fwkC4AjuRC2tO0nj/view?usp=sharing)
 
